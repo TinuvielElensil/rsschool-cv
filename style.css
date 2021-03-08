@@ -1,0 +1,45 @@
+body {
+	font-size: 14 px;
+	background-color: #FFEBCD;
+	font-family: "Georgia", serif;
+	margin: auto;
+}
+
+h2 {
+	font-size: 20px;
+	color: white;
+	background-color: #A52A2A;
+	padding: 5px 15px
+}
+
+header {
+	background-color: #8B0000;
+	padding: 5px;
+	text-align: center;
+	color: white;
+}
+
+footer {
+	background-color: #800000;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+pre {
+	font-size: 14 px;
+	font-family: "Georgia", serif;
+	padding-left: 15px;
+}
+
+p {
+	padding-left: 10px;
+}
+
+ul {
+	padding-left: 30px;
+}
+
+img {
+	border-radius: 10px;
+}
